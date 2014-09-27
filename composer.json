@@ -9,8 +9,8 @@
             "email": "chris@chrisnharvey.com"
         }
     ],
-    "bin": {
+    "bin": [
         "gh-sculpin"
-    },
+    ],
     "minimum-stability": "dev"
 }
