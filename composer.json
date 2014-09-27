@@ -1,0 +1,16 @@
+{
+    "name": "chrisnharvey/gh-sculpin",
+    "description": "Automatic Sculpin deployment to GitHub pages using Travis CI.",
+    "keywords": ["sculpin", "deployment", "github", "pages", "travis", "ci"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chris Harvey",
+            "email": "chris@chrisnharvey.com"
+        }
+    ],
+    "bin": {
+        "gh-sculpin"
+    },
+    "minimum-stability": "dev"
+}
