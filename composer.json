@@ -14,7 +14,7 @@
         "symfony/yaml": "2.6.*"
     },
     "bin": [
-        "gh-sculpin"
+        "bin/gh-sculpin"
     ],
     "minimum-stability": "dev"
 }
