@@ -13,6 +13,11 @@
         "symfony/console": "2.6.*",
         "symfony/yaml": "2.6.*"
     },
+    "autoload": {
+        "psr-4": {
+            "GhSculpin\\": "src/"
+        }
+    },
     "bin": [
         "bin/gh-sculpin"
     ],
