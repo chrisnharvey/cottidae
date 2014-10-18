@@ -1,6 +1,6 @@
 <?php
 
-namespace GhSculpin\Console;
+namespace Cottidae\Console;
 
 use Symfony\Component\Console\Application as BaseApplication;
 

@@ -1,7 +1,7 @@
 {
-    "name": "chrisnharvey/gh-sculpin",
+    "name": "chrisnharvey/cottidae",
     "description": "Automatic Sculpin deployment to GitHub pages using Travis CI.",
-    "keywords": ["sculpin", "deployment", "github", "pages", "travis", "ci"],
+    "keywords": ["sculpin", "deployment", "github", "pages", "travis", "ci", "cottidae"],
     "license": "MIT",
     "authors": [
         {
@@ -20,7 +20,7 @@
         }
     },
     "bin": [
-        "bin/gh-sculpin"
+        "bin/cottidae"
     ],
     "minimum-stability": "dev"
 }
