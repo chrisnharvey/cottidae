@@ -17,8 +17,5 @@
             "Cottidae\\": "src/"
         }
     },
-    "bin": [
-        "bin/cottidae"
-    ],
     "minimum-stability": "dev"
 }
