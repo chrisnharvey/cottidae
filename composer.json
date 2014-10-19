@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "l3l0/php-travis-client": "dev-master"
+        "snide/php-travis-client": "dev-master"
     },
     "autoload": {
         "psr-4": {
