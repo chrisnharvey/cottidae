@@ -2,9 +2,9 @@
 
 namespace Cottidae;
 
-use Symfony\Component\HttpKernel\Bundle\Bundle;
+use Symfony\Component\HttpKernel\Bundle\Bundle as BaseBundle;
 
-class Bundle extends Bundle
+class Bundle extends BaseBundle
 {
 
 }
